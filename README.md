@@ -17,34 +17,35 @@ Video Edit | `kdenlive`
 File Analysis | `qdirstat`
 Cleaner | `bleachbit`
 
-## Alternative Softwares
+## Alternative/Additional Softwares
 
 ### Brave - `brave-browser`
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Vivaldi](https://vivaldi.com/download/)
-- Opera
-- MinBrowser
-- Chrome
-- Chromium
+- [Opera](https://www.opera.com/)
+- [MinBrowser](https://minbrowser.org/)
+- [Chrome](https://www.google.com/chrome/)
+- [Chromium](https://www.chromium.org/)
 
 
-## Github
-- radicle
-- Wakatime
-- Rust
-- Elixir
+## Github - `gh-cli`
+- Radicle
 
+## LibreOffice - `libreoffice`
+- WPSOffice
+- OpenOffice
 
 ## Server
 - FileZilla
 
 ## Cloud
-- mega-cmd
+- Mega CMD
 
 ## Games
-- parsec-linux
+- Parsec
+- Steam
+- Lutris
 
-## Office
-- LibreOffice
+
 
 
