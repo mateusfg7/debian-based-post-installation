@@ -19,9 +19,9 @@ Cleaner | `bleachbit`
 
 ## Alternative Softwares
 
-### `brave-browser`
-- [`firefox`](https://www.mozilla.org/en-US/firefox/new/)
-- [`vivaldi-stable`](https://vivaldi.com/download/)
+### Brave - `brave-browser`
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Vivaldi](https://vivaldi.com/download/)
 - Opera
 - MinBrowser
 - Chrome
