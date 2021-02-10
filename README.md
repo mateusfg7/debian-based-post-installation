@@ -16,6 +16,7 @@ Audio Edit | `audacity`
 Video Edit | `kdenlive`
 File Analysis | `qdirstat`
 Cleaner | `bleachbit`
+Password Manager | `keepassxc`
 
 ## Alternative/Additional Softwares
 
